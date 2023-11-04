@@ -22,5 +22,5 @@ namespace Tyuiu.IbrayevAA.Sprint4.Task0.V25.Lib
             }
             return sum;
         }
-    }
+    } 
 }

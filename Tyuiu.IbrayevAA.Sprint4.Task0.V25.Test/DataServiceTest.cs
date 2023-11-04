@@ -17,5 +17,5 @@ namespace Tyuiu.IbrayevAA.Sprint4.Task0.V25.Test
             int wait = 42;
             Assert.AreEqual(wait, res);
         }
-    }
+    } 
 }

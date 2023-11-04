@@ -12,18 +12,18 @@ namespace Tyuiu.IbrayevAA.Sprint4.Task0.V25
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #1 | Выполнил: Ибраев А. А. | ПКТБ-23-2";
+            Console.Title = "Спринт #4 | Выполнил: Ибраев А. А. | ПКТБ-23-2";
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Алгоритмы циклической структуры                                   *");
-            Console.WriteLine("* Задание #7                                                              *");
-            Console.WriteLine("* Вариант #17                                                             *");
+            Console.WriteLine("* Спринт #4                                                               *");
+            Console.WriteLine("* Тема: Обработка структурных типов                                       *");
+            Console.WriteLine("* Задание #0                                                              *");
+            Console.WriteLine("* Вариант #25                                                             *");
             Console.WriteLine("* Выполнил: Ибраев Абай Аскарович | ПКТБ-23-2                             *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу, которая выводит таблицу значений функции            *");
-            Console.WriteLine("*                                                                         *");
-            Console.WriteLine("*                                                                         *");
+            Console.WriteLine("* Дан одномерный целочисленный массив на 10 элементов заполненный         *");
+            Console.WriteLine("* статическими значениями в диапазоне от 0 до 9 подсчитать сумму четных   *");
+            Console.WriteLine("* элементов массива.  {1, 4, 2, 6, 4, 8, 6, 7, 8, 4}                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
